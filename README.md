@@ -1,82 +1,100 @@
 # AI & Machine Learning
 
-A collection of Artificial Intelligence (AI) and Machine Learning (ML) projects, notebooks, and implementations created for learning, experimentation, and real-world applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter">
+  <img src="https://img.shields.io/badge/Machine-Learning-green">
+  <img src="https://img.shields.io/badge/Artificial-Intelligence-red">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
 
-This repository serves as a central place to store various AI and ML projects, covering topics such as data preprocessing, exploratory data analysis (EDA), supervised learning, unsupervised learning, deep learning, and model evaluation.
+## 📌 Overview
 
----
+This repository contains my learning journey and hands-on implementations of **Artificial Intelligence, Machine Learning, Data Analysis, and Python programming**.
 
-## 📌 Repository Overview
+The repository includes Jupyter notebooks, Python implementations, practical exercises, and mini-projects covering topics from basic Python libraries to supervised machine learning algorithms.
 
-This repository includes:
-
-- 🤖 Machine Learning models
-- 📊 Data preprocessing and cleaning
-- 📈 Exploratory Data Analysis (EDA)
-- 📓 Jupyter Notebook implementations
-- 🧠 Artificial Intelligence algorithms
-- 📉 Model evaluation and performance analysis
-- 🔍 Feature engineering
-- 🧪 Experimental implementations
+The goal of this repository is to build a strong foundation in AI, Machine Learning, Data Science, and Data Analysis through practical implementation.
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 ```
 AI_ML/
 │
-├── Machine Learning/
-│   ├── Classification
-│   ├── Regression
-│   ├── Clustering
-│   └── ...
+├── API_call_DC/
+├── Data Visualization/
+├── NumPy/
+├── Pandas/
+├── Probability/
+├── Scraping_Practice/
+├── Supervised ML/
+│   ├── Linear_Regression/
+│   └── Logistic_Regression (Classification)/
 │
-├── Artificial Intelligence/
-│   ├── Search Algorithms
-│   ├── Optimization
-│   └── ...
-│
-├── Datasets/
-│
-├── Notebooks/
-│
-├── Images/
-│
+├── Web_scraping/
+├── thinking_data.ipynb
+├── store_data.json
 └── README.md
 ```
 
-> *The repository structure will continue to grow as more projects are added.*
-
 ---
 
-## 🚀 Topics Covered
+# 📚 Contents
 
-### Machine Learning
+### 📊 Data Analysis
+
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Manipulation
+- Data Processing
+
+### 📈 Data Visualization
+
+- Matplotlib
+- Data Visualization Techniques
+- Charts
+- Graphs
+
+### 🤖 Machine Learning
+
+#### Supervised Learning
 
 - Linear Regression
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-- Naive Bayes
-- Clustering
-- Model Evaluation
-- Feature Engineering
+- Logistic Regression (Classification)
+
+Topics include:
+
 - Data Preprocessing
+- Train-Test Split
+- Feature Scaling
+- Model Training
+- Prediction
+- Model Evaluation
 
-### Artificial Intelligence
+### 🎲 Probability
 
-- Search Algorithms
-- Problem Solving
-- Optimization Techniques
-- Intelligent Systems
-- AI Fundamentals
+- Probability Basics
+- Statistical Concepts
+- Mathematical Foundations for Machine Learning
+
+### 🌐 Web Scraping
+
+- Data Collection
+- HTML Parsing
+- Practical Scraping Examples
+
+### 🔗 API Practice
+
+- Working with APIs
+- Fetching Data
+- JSON Processing
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠 Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -84,71 +102,316 @@ AI_ML/
 - Pandas
 - Matplotlib
 - Scikit-learn
-- TensorFlow *(when applicable)*
-- PyTorch *(when applicable)*
+- Requests
+- BeautifulSoup
 
 ---
 
-## 📈 Project Workflow
+# 🎯 Learning Objectives
 
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Feature Engineering
-5. Model Building
-6. Model Training
-7. Model Evaluation
-8. Prediction and Analysis
+This repository is created to:
 
----
-
-## 🎯 Purpose
-
-The objective of this repository is to:
-
-- Practice AI and Machine Learning concepts
-- Build real-world ML projects
-- Experiment with different algorithms
-- Improve data analysis skills
-- Create a portfolio of AI/ML work
+- Learn Python for Data Science
+- Practice Data Analysis
+- Understand Machine Learning algorithms
+- Explore Artificial Intelligence concepts
+- Build hands-on AI/ML projects
+- Improve problem-solving skills
 
 ---
 
-## 📚 Learning Resources
+# 🚀 Current Progress
 
-Projects in this repository are developed using concepts from:
+- ✅ NumPy
+- ✅ Pandas
+- ✅ Probability
+- ✅ Data Visualization
+- ✅ API Practice
+- ✅ Web Scraping
+- ✅ Linear Regression
+- ✅ Logistic Regression
 
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Statistics
-- Python Programming
-
----
-
-## 🤝 Contributions
-
-Suggestions, improvements, and contributions are always welcome.
-
-If you'd like to contribute:
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
+More machine learning algorithms and AI projects will be added continuously.
 
 ---
 
-## ⭐ Support
+# 💻 How to Run
 
-If you find this repository useful, consider giving it a ⭐ to support the project.
+1. Clone the repository
+
+```bash
+git clone https://github.com/MehediNoorNeo/AI_ML.git
+```
+
+2. Navigate to the project
+
+```bash
+cd AI_ML
+```
+
+3. Install the required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+or install manually
+
+```bash
+pip install numpy pandas matplotlib scikit-learn notebook requests beautifulsoup4
+```
+
+4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
 
 ---
 
-## 👨‍💻 Author
+# 📈 Future Topics
+
+The repository will continue to grow with:
+
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Clustering
+- Dimensionality Reduction
+- Deep Learning
+- Neural Networks
+- Natural Language Processing (NLP)
+- Computer Vision
+- Time Series Analysis
+
+---
+
+# 🤝 Contributions
+
+Suggestions and improvements are always welcome.
+
+Feel free to fork the repository and submit a pull request.
+
+---
+
+# ⭐ Support
+
+If you find this repository useful, please consider giving it a ⭐ on GitHub.
+
+---
+
+# AI & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter">
+  <img src="https://img.shields.io/badge/Machine-Learning-green">
+  <img src="https://img.shields.io/badge/Artificial-Intelligence-red">
+  <img src="https://img.shields.io/badge/Status-Active-success">
+</p>
+
+## 📌 Overview
+
+This repository contains my learning journey and hands-on implementations of **Artificial Intelligence, Machine Learning, Data Analysis, and Python programming**.
+
+The repository includes Jupyter notebooks, Python implementations, practical exercises, and mini-projects covering topics from basic Python libraries to supervised machine learning algorithms.
+
+The goal of this repository is to build a strong foundation in AI, Machine Learning, Data Science, and Data Analysis through practical implementation.
+
+---
+
+# 📂 Repository Structure
+
+```
+AI_ML/
+│
+├── API_call_DC/
+├── Data Visualization/
+├── NumPy/
+├── Pandas/
+├── Probability/
+├── Scraping_Practice/
+├── Supervised ML/
+│   ├── Linear_Regression/
+│   └── Logistic_Regression (Classification)/
+│
+├── Web_scraping/
+├── thinking_data.ipynb
+├── store_data.json
+└── README.md
+```
+
+---
+
+# 📚 Contents
+
+### 📊 Data Analysis
+
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Manipulation
+- Data Processing
+
+### 📈 Data Visualization
+
+- Matplotlib
+- Data Visualization Techniques
+- Charts
+- Graphs
+
+### 🤖 Machine Learning
+
+#### Supervised Learning
+
+- Linear Regression
+- Logistic Regression (Classification)
+
+Topics include:
+
+- Data Preprocessing
+- Train-Test Split
+- Feature Scaling
+- Model Training
+- Prediction
+- Model Evaluation
+
+### 🎲 Probability
+
+- Probability Basics
+- Statistical Concepts
+- Mathematical Foundations for Machine Learning
+
+### 🌐 Web Scraping
+
+- Data Collection
+- HTML Parsing
+- Practical Scraping Examples
+
+### 🔗 API Practice
+
+- Working with APIs
+- Fetching Data
+- JSON Processing
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Requests
+- BeautifulSoup
+
+---
+
+# 🎯 Learning Objectives
+
+This repository is created to:
+
+- Learn Python for Data Science
+- Practice Data Analysis
+- Understand Machine Learning algorithms
+- Explore Artificial Intelligence concepts
+- Build hands-on AI/ML projects
+- Improve problem-solving skills
+
+---
+
+# 🚀 Current Progress
+
+- ✅ NumPy
+- ✅ Pandas
+- ✅ Probability
+- ✅ Data Visualization
+- ✅ API Practice
+- ✅ Web Scraping
+- ✅ Linear Regression
+- ✅ Logistic Regression
+
+More machine learning algorithms and AI projects will be added continuously.
+
+---
+
+# 💻 How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/MehediNoorNeo/AI_ML.git
+```
+
+2. Navigate to the project
+
+```bash
+cd AI_ML
+```
+
+3. Install the required packages
+
+```bash
+pip install -r requirements.txt
+```
+
+or install manually
+
+```bash
+pip install numpy pandas matplotlib scikit-learn notebook requests beautifulsoup4
+```
+
+4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+# 📈 Future Topics
+
+The repository will continue to grow with:
+
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Clustering
+- Dimensionality Reduction
+- Deep Learning
+- Neural Networks
+- Natural Language Processing (NLP)
+- Computer Vision
+- Time Series Analysis
+
+---
+
+# 🤝 Contributions
+
+Suggestions and improvements are always welcome.
+
+Feel free to fork the repository and submit a pull request.
+
+---
+
+# ⭐ Support
+
+If you find this repository useful, please consider giving it a ⭐ on GitHub.
+
+---
+
+# 👨‍💻 Author
 
 **Mehedi Hasan**
 
-GitHub: https://github.com/MehediNoorNeo
+- GitHub: https://github.com/MehediNoorNeo
 
+---
 
+> **Note:** This repository is continuously updated as I learn new AI, Machine Learning, Data Science, and Python concepts.
