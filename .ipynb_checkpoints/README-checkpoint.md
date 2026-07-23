@@ -23,20 +23,20 @@ The goal of this repository is to build a strong foundation in AI, Machine Learn
 ```
 AI_ML/
 │
-├── API_call_DC/
-├── Data Visualization/
-├── NumPy/
-├── Pandas/
-├── Probability/
-├── Scraping_Practice/
-├── Supervised ML/
+├── 01_NumPy/
+├── 02_Pandas/
+├── 03_API_and_Data_Collection/
+├── 04_Web_Scraping/
+├── 05_Web_Scraping_Practice/
+├── 06_Data_Visualization/
+├── 07_Probability/
+├── 08_Supervised_Machine_Learning/
 │   ├── Linear_Regression/
-│   └── Logistic_Regression (Classification)/
+│   └── Logistic_Regression/
 │
-├── Web_scraping/
 ├── thinking_data.ipynb
 ├── store_data.json
-└── README.md
+├── README.md
 ```
 
 ---
